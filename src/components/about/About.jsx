@@ -23,7 +23,9 @@ const About = () => {
                   <small>Years Working</small>
                 </article>
               </div> */}
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit deleniti vitae nihil impedit mollitia modi aliquid ex totam ipsum laborum ratione hic temporibus consectetur, pariatur animi. Adipisci, error. Esse, quia.</p>
+            <p>Hello, My name is Ranjan Behl. I recently graduated from Purdue University with a Bachelors of Science in Computer Engineering. I love working on a variety of technologies including Web Development, Mobile App Development and Deep Learning. My goal is to build highly performant applications that solve real-world problems and provide users with an awesome experience.
+              Currently in my career I am trying to focus on backend development primary using the java ecosystem.  
+            </p>
             <a href='#contact' className='btn btn-primary'>Let's Talk</a>
           </div>
       </div>

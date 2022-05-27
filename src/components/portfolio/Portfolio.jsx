@@ -1,8 +1,8 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio1.jpg'
-import IMG3 from '../../assets/portfolio1.jpg'
+import IMG1 from '../../assets/portfolio1.png'
+import IMG2 from '../../assets/portfolio2.png'
+import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio1.jpg'
 import IMG5 from '../../assets/portfolio1.jpg'
 import IMG6 from '../../assets/portfolio1.jpg'
@@ -11,20 +11,20 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: '1',
-    github: 'https://github.com'
+    title: 'WIFICoin',
+    github: 'https://github.com/Ranjanbehl/WIFICoin'
   },
   {
     id: 2,
     image: IMG2,
-    title: '2',
-    github: 'https://github.com'
+    title: 'Roguelike Terminal Game',
+    github: 'https://github.com/Ranjanbehl/ECE_39595_Project'
   },
   {
     id: 3,
     image: IMG3,
-    title: '3',
-    github: 'https://github.com'
+    title: 'MicroC Compiler',
+    github: 'https://github.com/Ranjanbehl/Compilers_Project'
   },
   {
     id: 4,
@@ -41,7 +41,7 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: '1',
+    title: '6',
     github: 'https://github.com'
   },
 ]
