@@ -23,8 +23,7 @@ const About = () => {
                   <small>Years Working</small>
                 </article>
               </div> */}
-            <p>Hello, My name is Ranjan Behl. I recently graduated from Purdue University with a Bachelors of Science in Computer Engineering. I love working on a variety of technologies including Web Development, Mobile App Development and Deep Learning. My goal is to build highly performant applications that solve real-world problems and provide users with an awesome experience.
-              Currently in my career I am trying to focus on backend development primary using the java ecosystem.  
+            <p>Hello, My name is Ranjan Behl. I recently graduated from Purdue University with a Bachelors of Science in Computer Engineering.  I love working on a variety of technologies, including Web Development, Mobile App Development and Machine Learning. My goal is to build highly performant applications that solve real-world problems and provide users with an awesome experience. Currently in my career I am trying to get a software engineering position for backend development or full stack development.
             </p>
             <a href='#contact' className='btn btn-primary'>Let's Talk</a>
           </div>
